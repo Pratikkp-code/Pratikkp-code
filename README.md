@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikkp-code" alt="pratikkp-code" /></a> </p>
 
-- 🌱 I’m currently learning **React JS, Tailwind CSS**
+- 🌱 I’m currently learning **React JS, Tailwind CSS, Node JS**
 
 - 📫 How to reach me **pratikkapure20@gmail.com**
 
